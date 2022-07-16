@@ -1,3 +1,3 @@
-This is a To-do react app which can perform all the crud applications.
+This is a To-do react app which can perform all the CRUD applications.
 
-Live Link : https://Todo-cipherschools.amann-k.repl.co
+Live Link : https://todoCipherSchoolsAshurajputtgithubio.ashurajputt.repl.co
